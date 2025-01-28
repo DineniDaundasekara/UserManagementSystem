@@ -1,2 +1,2 @@
 # UserManagementSystem
-This is a user management create using Mern Stack
+This is a user management system create using Mern Stack
